@@ -19,6 +19,9 @@ Details
   - Beta 
  
  Step 1: gather data
+ 
  Step 2: enter into ML algorithm
+ 
  Step 3: ???
+ 
  Step 4: Profit
